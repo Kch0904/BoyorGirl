@@ -1,8 +1,4 @@
 <!-- 底下標籤來源參考寫法可至：https://github.com/Envoy-VC/awesome-badges#github-stats -->
-
-![](https://img.shields.io/github/stars/hsiangfeng/README-Example-Template.svg)｜![](https://img.shields.io/github/forks/hsiangfeng/README-Example-Template.svg)｜![](https://img.shields.io/github/issues-pr/hsiangfeng/README-Example-Template.svg)｜![](https://img.shields.io/github/issues/hsiangfeng/README-Example-Template.svg)
-
-
 # 專案介紹
 
 ![專案封面圖](https://img.freepik.com/premium-photo/flat-lay-composition-with-toy-stroller-words-boy-girl-light-blue-pink-background-background_98774-398.jpg)
