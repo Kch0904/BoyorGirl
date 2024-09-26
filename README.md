@@ -90,12 +90,7 @@ Random Forest; SMOTE; TF-IDF; Decision Tree; SVM; 四分位數
 
 ## 資料夾說明
 
-- views - 畫面放置處
-- controllers - 控制器放置處
-- modules - 模組放置處
-- assets - 靜態資源放置處
-  - scss - scss 檔案放置處
-  - images - 圖片放置處
+- summit csv繳交檔案
 ...
 
 ## 專案技術
